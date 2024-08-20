@@ -1,6 +1,7 @@
 # Horatio Roarke's Home Page
 
 Horatio Roarke is a student in UConn's MSDS program. 
+He is making a web page. 
 
 1. # gives a big header
 2. ## makes a smaller one
