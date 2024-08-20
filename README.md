@@ -3,6 +3,11 @@
 Horatio Roarke is a student in UConn's MSDS program. 
 He is making a web page. 
 
+
+$$
+\int_{-\infty}^{\infty} e^{-x^2/2}dx = \frac{\pi}{2}
+$$
+
 1. # gives a big header
 2. ## makes a smaller one
 3. ### makes an even smaller one
